@@ -100,7 +100,7 @@ msgstr "   --queue             Добавить файл(ы) в существу
 #: ../src/main.c:148
 #, c-format
 msgid "   --gui PLUGIN       Tells which GUI plugin to use, default is \"GTK2\"\n"
-msgstr "   --gui PLUGIN       выбор плагина интерфейса, по-умолчанию \"GTK2\"\n"
+msgstr "   --gui PLUGIN       Выбор плагина интерфейса, по-умолчанию \"GTK2\"\n"
 
 #: ../src/main.c:149
 #, c-format
@@ -482,7 +482,7 @@ msgstr "Файл уже существует. Перезаписать?"
 
 #: ../plugins/converter/convgui.c:148
 msgid "Converter warning"
-msgstr "Converter предупреждение"
+msgstr "Конвертер предупреждение"
 
 #: ../plugins/converter/convgui.c:322
 msgid "Please select encoder"
@@ -490,7 +490,7 @@ msgstr "Пожалуйста, выберите кодировщик"
 
 #: ../plugins/converter/convgui.c:324
 msgid "Converter error"
-msgstr "Converter ошибка"
+msgstr "Конвертер ошибка"
 
 #: ../plugins/converter/convgui.c:348
 msgid "Converting..."
@@ -679,7 +679,7 @@ msgstr "Выделенный трек"
 
 #: ../plugins/gtkui/ctmapping.c:130
 msgid "Content-Type"
-msgstr "Content-Type"
+msgstr "Тип наполнения"
 
 #: ../plugins/gtkui/ctmapping.c:132 ../plugins/gtkui/deadbeef.glade.h:203
 #: ../plugins/gtkui/interface.c:3319
@@ -1636,7 +1636,7 @@ msgstr ""
 
 #: ../plugins/gtkui/deadbeef.glade.h:227 ../plugins/gtkui/interface.c:5065
 msgid "Content-Type:"
-msgstr "Content-Type:"
+msgstr "Тип наполнения:"
 
 #: ../plugins/gtkui/deadbeef.glade.h:228 ../plugins/gtkui/interface.c:5078
 msgid "Plugins:"
@@ -2712,7 +2712,7 @@ msgstr "Много треков"
 #: ../plugins/shellexecui/interface.c:216
 #: ../plugins/shellexecui/shellexec.glade.h:16
 msgid "Works on multiple tracks."
-msgstr "аботает когда выделено много треков."
+msgstr "Работает когда выделено много треков."
 
 #: ../plugins/shellexecui/interface.c:218
 #: ../plugins/shellexecui/shellexec.glade.h:19
