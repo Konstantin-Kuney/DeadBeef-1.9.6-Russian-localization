@@ -2,6 +2,9 @@
 -----------------------------------------
 DeadBeef 1.9.6 Russian localization
 
+![Снимок экрана от 2024-11-18 14-28-31](https://github.com/user-attachments/assets/4b17e0bf-22bb-43a0-97b4-cbaaf68ead0b)
+
+
 ## О локализации:
 -----------------
 
